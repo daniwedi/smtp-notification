@@ -1,0 +1,6 @@
+{"type": "EMAIL",
+"subject": "Testing email",
+"message": "Hello from testing app",
+"priority": "MINOR",
+"recipient": "tesfamichaeld224@gmail.com"
+}
